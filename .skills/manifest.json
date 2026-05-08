@@ -1,0 +1,8 @@
+{
+  "name": "ezr-openapi-creator",
+  "version": "1.0.0",
+  "main": "skill.md",
+  "title": "EZR OpenAPI接口对接技能",
+  "description": "基于 OpenAPI 的提示词 Skill",
+  "author": "zhengkk"
+}
